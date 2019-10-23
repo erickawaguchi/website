@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | ESK</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;My name is Eric Kawaguchi and I am a postdoctoral reserach associate
+                in &lt;a href=&#34;https://biostatsepi.usc.edu/&#34; target=&#34;_blank&#34;&gt; USC&amp;rsquo;s Biostatistics and Epidemiology division.&lt;/a&gt; I received both my PhD and MS in biostatistics from &lt;a href=&#34;https://biostat.ucla.edu&#34; target=&#34;_blank&#34;&gt;
+                    UCLA&lt;/a&gt; and my BS in mathematics from the &lt;a href=&#34;https://www.cpp.edu/~math&#34; target=&#34;_blank&#34;&gt;California State Polytechnic University, Pomona.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
