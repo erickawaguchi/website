@@ -1,7 +1,7 @@
 ---
 # Display name
 name: Eric S. Kawaguchi
-image: headshot.jpg
+avatar: headshot.jpg
 
 # Username (this should match the folder name)
 authors:

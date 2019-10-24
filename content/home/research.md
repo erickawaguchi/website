@@ -76,8 +76,8 @@ subtitle = ""
  css_class = ""
 +++
 
-My dissertation research was titled "Scalable Methods for Big Time-to-Event Data". Specifically, I developed  new surrogate $\ell_0$-penalization method for both right-censored and competing risks data. I showed that our method, Broken adaptive ridge (BAR), attains the oracle property for a diverging number of covariates. In addition, I showed that parameter estimation for the Fine-Gray proportional sub-distribution hazards model can be performed in $O(n)$ time, as opposed to $O(n^2)$, which allows for scalable analyses of both high-dimensional and massive sample size competing risks data.
+My dissertation research was titled "Scalable Methods for Big Time-to-Event Data" under the supervision of Professor Gang Li. Specifically, I developed  new surrogate $\ell_0$-penalization method for both right-censored and competing risks data. I proved that our method, broken adaptive ridge (BAR), attains the oracle property for a diverging number of covariates. In addition, I showed that parameter estimation for the Fine-Gray proportional sub-distribution hazards model can be performed in $O(n)$ time, as opposed to $O(n^2)$, which allows for scalable analyses of both high-dimensional and massive sample size competing risks data.
 
 My postdoctoral research pertains to developing integrative methods for the analysis of genetic data. 
 
-Below is a selected list of R packages and papers that I have published.
+Below is a selected list of publications and R packages I contributed to.

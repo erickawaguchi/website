@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Researches | ESK</title>
+    <link>/research/</link>
+      <atom:link href="/research/index.xml" rel="self" type="application/rss+xml" />
+    <description>Researches</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019 Eric S. Kawaguchi</copyright><lastBuildDate>Mon, 11 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Researches</title>
+      <link>/research/</link>
+    </image>
+    
+    <item>
+      <title>BrokenAdaptiveRidge</title>
+      <link>/research/rpkg-brokenadaptiveridge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/research/rpkg-brokenadaptiveridge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neoadjuvant anti-PD-1 immunotherapy promotes a survival benefit with intratumoral and systemic immune responses in recurrent glioblastoma</title>
+      <link>/research/pubs-nature/</link>
+      <pubDate>Mon, 11 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/research/pubs-nature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>controlTest</title>
+      <link>/research/rpkg-controltest/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/research/rpkg-controltest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fastcmprsk</title>
+      <link>/research/rpkg-fastcmprsk/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/research/rpkg-fastcmprsk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>powerCompRisk</title>
+      <link>/research/rpkg-powercomprisk/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/research/rpkg-powercomprisk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pshBAR</title>
+      <link>/research/rpkg-pshbar/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/research/rpkg-pshbar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
