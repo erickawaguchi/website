@@ -15,8 +15,8 @@ role: Postdoctoral Research Associate
 
 # Organizations/Affiliations
 organizations:
-- name: Keck School of Medicine, University of Southern California
-  url: ""
+- name: Department of Preventive Medicine, University of Southern California
+  url: "https://preventivemedicine.usc.edu/divisions/biostatistics/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
