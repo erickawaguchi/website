@@ -1,7 +1,7 @@
 ---
 # Display name
 name: Eric S. Kawaguchi
-avatar: headshot.jpg
+avatar: avatar (1).jpg
 
 # Username (this should match the folder name)
 authors:
@@ -11,7 +11,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Research Associate
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -22,13 +22,17 @@ organizations:
 bio: 
 
 interests:
-- High-dimensional statistics
-- Survival analysis
-- Statistical computing
-- Statistical genetics
+- High-Dimensional Statistics
+- Survival Analysis
+- Statistical Computing
+- Statistical Genomics
+
 
 education:
   courses:
+  - course: Postdoctoral Fellow 
+    institution: University of Southern California
+    year: 2019 - Present
   - course: PhD in Biostatistics
     institution: University of California, Los Angeles
     year: 2019
@@ -73,6 +77,10 @@ user_groups:
 - Visitors
 ---
 
-My name is Eric Kawaguchi and I am a postdoctoral reserach associate
-                in <a href="https://biostatsepi.usc.edu/" target="_blank"> USC's Biostatistics and Epidemiology division.</a> I received both my PhD and MS in biostatistics from <a href="https://biostat.ucla.edu" target="_blank">
-                    UCLA</a> and my BS in mathematics from the <a href="https://www.cpp.edu/~math" target="_blank">California State Polytechnic University, Pomona.</a>
+My name is Eric Kawaguchi and I am a T32 Postdoctoral Fellow in <a href="https://biostatsepi.usc.edu/" target="_blank"> USC's Biostatistics and Epidemiology division.</a> I received both my PhD and MS in biostatistics from <a href="https://biostat.ucla.edu" target="_blank">UCLA</a> and my BS in mathematics from the <a href="https://www.cpp.edu/~math" target="_blank">California State Polytechnic University, Pomona.</a>
+
+
+In my free time I enjoy...
+  - Cooking, mixing up cocktails, and making delicious [ice cream](https://www.instagram.com/quarantine.and.ice.cream/)
+  - Bouldering at my local climbing gym 
+  - Tapping mana and casting spells at my local game store
