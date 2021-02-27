@@ -29,6 +29,8 @@ Sideboard:
 
 ### Grixis Death's Shadow
 
+List as of 
+
 ```
 Main:
 
@@ -38,6 +40,8 @@ Main:
 Sideboard:
 
 ```
+
+
 
 ## Legacy
 
